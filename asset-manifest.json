@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Insurance_Dashboard/static/css/main.fbf4f98f.css",
+    "main.js": "/Insurance_Dashboard/static/js/main.f217a9d4.js",
+    "service-worker.js": "/Insurance_Dashboard/service-worker.js",
+    "index.html": "/Insurance_Dashboard/index.html",
+    "main.fbf4f98f.css.map": "/Insurance_Dashboard/static/css/main.fbf4f98f.css.map",
+    "main.f217a9d4.js.map": "/Insurance_Dashboard/static/js/main.f217a9d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf4f98f.css",
+    "static/js/main.f217a9d4.js"
+  ]
+}
